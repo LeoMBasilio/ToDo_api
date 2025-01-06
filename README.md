@@ -8,7 +8,7 @@ Esta é uma API de lista de tarefas (ToDo) construída com Django e Django REST 
 1. Clone o repositório:
 
    ```sh
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/LeoMBasilio/ToDo_api.git
    cd ToDo_api
    ```
 2. Crie um ambiente virtual e ative-o:
